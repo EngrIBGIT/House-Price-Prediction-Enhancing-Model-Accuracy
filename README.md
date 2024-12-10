@@ -50,7 +50,7 @@ The project consists of the following key steps:
 ---
 
 ## Links
-- [Jupyter Notebook]([#](https://github.com/EngrIBGIT/House-Price-Prediction-Enhancing-Model-Accuracy/blob/main/House_Price_mod.ipynb))  
+- [House Price Prediction Notebook](https://github.com/EngrIBGIT/House-Price-Prediction-Enhancing-Model-Accuracy/blob/main/House_Price_mod.ipynb) 
 - [Deployment Link](#)
 
 ---
