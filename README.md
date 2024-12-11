@@ -1,4 +1,7 @@
 # House-Price-Prediction-Enhancing-Model-Accuracy
+
+***[Link to House Price Prediction Jupyter Notebook](https://github.com/EngrIBGIT/House-Price-Prediction-Enhancing-Model-Accuracy/blob/main/House_Price_mod.ipynb)***
+
 This repository contains a comprehensive machine learning pipeline for predicting house prices using linear regression and ridge regression techniques. 
 
 The project **aims** to explore and preprocess a housing dataset, analyze relationships between variables, and build robust predictive models.
