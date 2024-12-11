@@ -175,8 +175,8 @@ The deployment link provides access to a live web application where users can:
 
 ## Summary
 These links collectively provide a comprehensive workflow for house price prediction:
-1. **House Price Prediction Notebook**: For understanding and replicating the technical aspects of the project.
-2. **Deployment Link**: For real-world interaction with the predictive model.
+1. **[House Price Prediction Notebook](https://github.com/EngrIBGIT/House-Price-Prediction-Enhancing-Model-Accuracy/blob/main/House_Price_mod.ipynb)**: For understanding and replicating the technical aspects of the project.
+2. **[Deployment Link](https://house-price-prediction-enhancing-model-2vdp.onrender.com)**: For real-world interaction with the predictive model.
 
 Feel free to explore, test, and build upon these resources for further improvements or insights.
 
